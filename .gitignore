@@ -1,0 +1,10 @@
+# Local Claude Code settings and permissions (per person, not shared)
+.claude/settings.local.json
+
+# Screenshots and working files produced while using the skill.
+# They can contain customer or business data, so they stay out of git.
+walkthroughs/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
